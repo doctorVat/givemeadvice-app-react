@@ -29,7 +29,7 @@ fetchAdvice = () => {
                 <div className='card'>
                         <h1 className='heading'>{advice}</h1>
                         <button className='button' onClick={this.fetchAdvice}>
-                            <span>Give Advice &#128513; </span>
+                            <span>GIVE ADVICE &#128513; </span>
                         </button>
                 </div>
             </div>
